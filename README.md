@@ -59,7 +59,7 @@ python src/train.py
 Para fazer previsões usando um modelo treinado, execute o script `predict.py` (se aplicável):
 
 ```bash
-python src/predict.py --image "caminho/para/imagem.png"
+python src/predict.py
 ```
 
 ## Detalhes da Implementação
