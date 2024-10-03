@@ -1,0 +1,3 @@
+# Ignore modelos treinados e grandes arquivos de dados
+models/
+data/
